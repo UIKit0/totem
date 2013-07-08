@@ -6,7 +6,8 @@ DOC_ID = totem
 
 # List of figures to be included
 DOC_FIGURES = \
-  figures/totem-main-window.png
+  figures/totem-main-window.png \
+  figures/totem-icon.png \
 
 # List of pages
 DOC_PAGES = \

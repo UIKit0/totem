@@ -1,8 +1,23 @@
 <page xmlns="http://projectmallard.org/1.0/"
-      type="guide"
+      xmlns:its="http://www.w3.org/2005/11/its"
+      type="guide" style="task"
       id="index">
+      
+  <info>
+    <title type="link">GNOME Videos</title>
+    <title type="text">GNOME Videos</title>
 
-  <title>Totem Movie Player Help</title>
+    <revision pkgversion="3.10" date="2013-07-07" status="draft"/>
+    <credit type="author">
+      <name>Marta Bogdanowicz</name>
+      <email its:translate="no">majus85@gmail.com</email>
+    </credit>
+  </info>
+
+  <title>
+    <media type="image" mime="image/png" src="figures/totem-icon.png" its:translate="no" />
+    GNOME Videos
+  </title>
 
   <section id="playing-media" style="2column">
     <title>Playing media</title>
